@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# This is a GIT repository of NEO SPU
+
+### All of us wanna meet up new events!
+### NEO SPU gonna tested awesome idea!
+
 <!--
 **NeoSPU/neospu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
